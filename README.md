@@ -28,7 +28,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Image](https://img.shields.io/badge/Figma-00C58E?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sitbayevalibek&show_icons=true&theme=gotham" alt="sitbayevalibek" />
 
