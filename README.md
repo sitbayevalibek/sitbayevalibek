@@ -2,27 +2,28 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a data scientist. I also know about Machine learning, Artificial Intelligence, Deep learning. </br>
+I am a Data scientist. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
+[![Linkedin Badge](https://img.shields.io/badge/-alibek_sitbayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitbayevalibek-251954274/)](https://www.linkedin.com/in/sitbayevalibek-251954274/) 
+[![Telegram Badge](https://img.shields.io/badge/@sitbayevalibek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sitbayevalibek)](https://t.me/sukhrobnuraliev) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
+- :white_check_mark: I know the field of Data science
+- :ok: I'm open to work
+- :hourglass_flowing_sand:  I'm learning Machine learning 
+- :hourglass_flowing_sand:  I'm learning Deep learning 
+- :hourglass_flowing_sand:  I'm learning Artificial Intelligence
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
 ![Image](https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white)
-![Image](https://img.shields.io/badge/Numpy-005C84?style=for-the-badge&logo=numpy&logoColor=white)
 ![Image](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=F7DF1E)
+![Image](https://img.shields.io/badge/Numpy-005C84?style=for-the-badge&logo=numpy&logoColor=white)
 ![Image](https://img.shields.io/badge/Data%20science-323330?style=for-the-badge&logo=datascience&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Machine%20leearning-%23DD0031.svg?&style=for-the-badge&logo=machinelearning&logoColor=white)
 ![Image](https://img.shields.io/badge/-Deep%20learning-311C87?style=for-the-badge&logo=deeplearning)
