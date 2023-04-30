@@ -6,7 +6,7 @@ I am a Data scientist. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-alibek_sitbayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitbayevalibek-251954274/)](https://www.linkedin.com/in/sitbayevalibek-251954274/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alibek_Sitbayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitbayevalibek-251954274/)](https://www.linkedin.com/in/sitbayevalibek-251954274/) 
 [![Telegram Badge](https://img.shields.io/badge/@sitbayevalibek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sitbayevalibek)](https://t.me/sukhrobnuraliev) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
