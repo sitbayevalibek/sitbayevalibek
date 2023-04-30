@@ -15,10 +15,11 @@ I am a Data scientist. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alibek_Sitbayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitbayevalibek-251954274/)](https://www.linkedin.com/in/sitbayevalibek-251954274/) 
-[![Telegram Badge](https://img.shields.io/badge/@sitbayevalibek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sitbayevalibek)](https://t.me/sitbayevalibek) 
-[![Twitter Badge](https://img.shields.io/badge/@sitbayevalibek-2CA5E0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sitbayevalibek)](https://twitter.com/sitbayevalibek) 
-[![Instagram Badge](https://img.shields.io/badge/@sitbayevalibek-2CA5E0?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sitvayevalibek)](https://www.instagram.com/sitvayevalibek) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alibek_Sitbayev-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitbayevalibek-251954274/)](https://www.linkedin.com/in/sitbayevalibek-251954274/) 
+[![Telegram Badge](https://img.shields.io/badge/@sitbayevalibek-28a7e8?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sitbayevalibek)](https://t.me/sitbayevalibek) 
+[![Instagram Badge](https://img.shields.io/badge/@sitbayevalibek-fe0965?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sitvayevalibek)](https://www.instagram.com/sitvayevalibek) 
+[![Twitter Badge](https://img.shields.io/badge/@sitbayevalibek-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sitbayevalibek)](https://twitter.com/sitbayevalibek) 
+
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
   
