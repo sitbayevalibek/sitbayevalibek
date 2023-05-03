@@ -34,10 +34,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
-![Image](https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Image](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Numpy-005C84?style=for-the-badge&logo=numpy&logoColor=white)
 ![Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Image](https://img.shields.io/badge/Data%20science-323330?style=for-the-badge&logo=datascience&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Machine%20leearning-%23DD0031.svg?&style=for-the-badge&logo=machinelearning&logoColor=white)
 ![Image](https://img.shields.io/badge/-Deep%20learning-311C87?style=for-the-badge&logo=deeplearning)
@@ -51,10 +52,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Figma-00C58E?style=for-the-badge&logo=figma&logoColor=white)
 ![Image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Image](	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-## ⚡ IDE's
 ![Image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Image](https://img.shields.io/badge/Jupyter%20Notebook-c5540b?style=for-the-badge&logo=jupyter%20notebook&color=c5540b)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Image](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitbayevalibek&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sitbayevalibek" /></a> </p>
