@@ -57,4 +57,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<div align="center">
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=sitbayevalibek&count_private=true&include_all_commits=true" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitbayevalibek&layout=compact" />
+</div>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitbayevalibek&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sitbayevalibek" /></a> </p>
