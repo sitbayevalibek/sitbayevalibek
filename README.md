@@ -64,7 +64,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   <a href="https://github.com/sitbayevalibek">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitbayevalibek&theme=transparent" />
   </a>
-  <a href="https://github.com/sitbayevalibek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitbayevalibek&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  
 </p>
