@@ -54,7 +54,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ## ⚡ IDE's
 ![Image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Image](https://img.shields.io/badge/Kaggle-F9AB00?style=for-the-badge&logo=kaggle&color=ffdd54)
+![Image](https://img.shields.io/badge/Kaggle-3670A0?style=for-the-badge&logo=kaggle&color=525252)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
