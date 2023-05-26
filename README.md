@@ -7,11 +7,11 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/sitbayevalibek/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Data%20scientist;I'm%20learning;Machine%20learning;Deep%20learning;Artificial%20Intelligence;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Data%20scientist;I'm%20learning;Deep%20learning;Artificial%20Intelligence;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a Data scientist. </br>
+I'm Data Specialist · Machine Learning Engineer · Data Analyst </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <h2 align="left">:incoming_envelope: Contact Me:</h2>
@@ -26,10 +26,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :white_check_mark: I know the field of Data science
 - :ok: I'm open to work
-- :hourglass_flowing_sand:  I'm learning Machine learning 
+- :white_check_mark: I'm Data Specialist
+- :white_check_mark: I'm Data Analyst
+- :white_check_mark:  I'm  Machine Learning Engineer
 - :hourglass_flowing_sand:  I'm learning Deep learning 
 - :hourglass_flowing_sand:  I'm learning Artificial Intelligence
 - :rocket: Always ready to collaborate for Dev Experiments
