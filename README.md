@@ -26,6 +26,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+
 - :ok: I'm open to work
 - :white_check_mark: I'm Data Specialist
 - :white_check_mark: I'm Data Analyst
