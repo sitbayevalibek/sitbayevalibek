@@ -13,7 +13,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm Data Specialist · Data Analyst </br>
+I'm Data Scientist · Data Analyst </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <h2 align="left">:incoming_envelope: Contact Me:</h2>
