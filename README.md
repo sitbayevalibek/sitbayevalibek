@@ -30,7 +30,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :ok: I'm open to work
-- :white_check_mark: I'm Data Specialist
+- :white_check_mark: I'm Data Scientist
 - :white_check_mark: I'm Data Analyst
 - :white_check_mark:  I'm  Machine Learning Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
