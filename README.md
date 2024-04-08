@@ -52,6 +52,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ![Image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Image](	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Excel Logo](https://img.shields.io/badge/excel-0a7723?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 ## ⚡ IDE's
 ![Image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Image](https://img.shields.io/badge/Kaggle-3670A0?style=for-the-badge&logo=kaggle&color=525252)
